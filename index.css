@@ -1,0 +1,74 @@
+h1 {
+	font-size: 100px;
+	font-style: normal;
+	font-family: fantasy;
+	text-align: center}
+
+h2 {
+	font-size: 50px;
+	font-style: normal;
+	font-family: fantasy;
+	text-align: center}
+
+.hoodie {
+	width: 300px }
+	
+hr {
+	background-color: black;
+	height:1px }
+	
+table {
+	margin-left: auto;
+	margin-right: auto }
+	
+td { 
+	border: 5px solid orange;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto }
+
+.logo {
+	width: 50px }
+
+.bar {
+	height: 50px;
+	background-color: black }
+	
+p {
+	font-size: 25px;
+	font-style: normal;
+	font-family: fantasy;
+	text-align: center}
+	
+p.match {
+	font-size: 25px;
+	font-style: normal;
+	font-family: fantasy;
+	text-align: center;
+	color: white}
+	
+p.victoire {
+	font-size: 25px;
+	font-style: normal;
+	font-family: fantasy;
+	text-align: center;
+	color: green}
+	
+p.defaite {
+	font-size: 25px;
+	font-style: normal;
+	font-family: fantasy;
+	text-align: center;
+	color: red}
+	
+a:link{color: black;}
+a:visited{color: black;}
+
+td.equipe { 
+	border: 5px solid black;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto }	
+	
+
+	
