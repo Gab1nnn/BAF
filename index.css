@@ -1,13 +1,11 @@
 h1 {
 	font-size: 100px;
 	font-style: normal;
-	font-family: fantasy;
 	text-align: center}
 
 h2 {
 	font-size: 50px;
 	font-style: normal;
-	font-family: fantasy;
 	text-align: center}
 
 .hoodie {
@@ -37,27 +35,23 @@ td {
 p {
 	font-size: 25px;
 	font-style: normal;
-	font-family: fantasy;
 	text-align: center}
 	
 p.match {
 	font-size: 25px;
 	font-style: normal;
-	font-family: fantasy;
 	text-align: center;
 	color: white}
 	
 p.victoire {
 	font-size: 25px;
 	font-style: normal;
-	font-family: fantasy;
 	text-align: center;
 	color: green}
 	
 p.defaite {
 	font-size: 25px;
 	font-style: normal;
-	font-family: fantasy;
 	text-align: center;
 	color: red}
 	
